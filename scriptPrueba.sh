@@ -3,7 +3,7 @@
 # Declaramos la función holamundo
 holamundo()
 {
-echo "¡Hola Mundo!"
+echo "¡Hola Mundo que tal!"
 }
 # Llamamos a la función holamundo
 holamundo
